@@ -1,3 +1,13 @@
+
+Student Name: Piyush Dhebe
+PRN:125UAD1244
+Class/Division: SY-AIDS-C
+Course Name: Object Oriented Programming using C++
+Unit: I
+
+
+
+
 # C++ OOP Programs – Sensor, Attendance & Product Management
 
 This repository contains three simple **C++ programs** developed to demonstrate important **Object-Oriented Programming (OOP)** concepts using practical real-world examples.
@@ -10,7 +20,7 @@ The programs focus on **classes, objects, constructors, encapsulation, vectors, 
 
 ### 1. Soil Sensor Monitoring System
 
-**File:** `SoilSensor.cpp`
+**File:** code.cpp
 
 This program simulates a basic soil moisture monitoring system using multiple soil sensors.
 
@@ -54,7 +64,7 @@ Sensor:S001|Moisture:47.5%|Time:09:00
 
 # 2. Student Attendance Management System
 
-**File:** `StudentAttendance.cpp`
+**File:** code.cpp
 
 This program manages attendance records for multiple students and calculates their attendance percentage.
 
@@ -96,7 +106,7 @@ Roll:104|Name:Omkar|Attendance:33.3333%
 
 # 3. Product Catalog Management System
 
-**File:** `Product.cpp`
+**File:** code.cpp
 
 This program manages a simple product catalog containing product information such as product ID, name, price, and stock quantity.
 
@@ -135,9 +145,7 @@ ID:1002|Product:MousePrice:Rs500|Stock:50
 ID:1003|Product:KeyboardPrice:Rs1500|Stock:30
 
  Total Products in Catalog:3
-```
 
----
 
 # 🧠 OOP Concepts Demonstrated
 
@@ -156,7 +164,7 @@ ID:1003|Product:KeyboardPrice:Rs1500|Stock:30
 | Inline Functions       | Product                          |
 | Destructor             | Product                          |
 
----
+
 
 # 🛠️ Technologies Used
 
@@ -169,61 +177,28 @@ ID:1003|Product:KeyboardPrice:Rs1500|Stock:30
 * **Compiler:** Any standard C++ compiler
 * **Recommended Standard:** C++11 or later
 
----
 
-# ▶️ How to Run
 
-### 1. Clone the repository
 
-```bash
-git clone <repository-url>
-```
 
-### 2. Open the project folder
+#  Project Structure
 
-```bash
-cd <project-folder>
-```
 
-### 3. Compile a program
-
-For example:
-
-```bash
-g++ SoilSensor.cpp -o SoilSensor
-```
-
-### 4. Run the program
-
-```bash
-./SoilSensor
-```
-
-For Windows:
-
-```bash
-SoilSensor.exe
-```
-
-The same process can be followed for the other two programs.
-
----
-
-# 📁 Suggested Project Structure
-
-```text
-CPP-OOP-Programs/
+Real-time Applications/
 │
 ├── README.md
 │
-├── SoilSensor.cpp
+├── Smart Agriculture Sensor Monitoring
+     |--code.cpp
 │
-├── StudentAttendance.cpp
+├── Student Attendance Management System
+        |--code.cpp
 │
-└── Product.cpp
-```
+└── E-commerce Product Catalog
+        |--code.cpp
 
----
+
+
 
 # 🎯 Learning Objectives
 
